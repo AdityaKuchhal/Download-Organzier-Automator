@@ -1,4 +1,4 @@
-# DOwnload Organizer Automator
+# Download Organizer Automator
 
 This script automatically organizes files in your download directory into specific folders based on their file type.
 
